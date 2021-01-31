@@ -38,7 +38,7 @@ My name is Alex Nudelman, and I'm codoholic 👨🏻‍💻
 
 
 
-### Github Stats
+#### 👨🏻‍💻 GithHub Stats
 [![Nudelx's GitHub stats](https://github-readme-stats.vercel.app/api?username=nudelx&count_private=true&show_icons=true&include_all_commits=true&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
