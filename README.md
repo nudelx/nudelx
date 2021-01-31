@@ -5,7 +5,16 @@
 I'm currently work for [SolarWinds](https://www.solarwinds.com) as a Principal Architect ITSM and FullStack Developer.
 I'm a huge fan of the natural JavaScript language and all its manifestations.
 In my free time, I working on the various node and react projects and I give talks and lectures about it. 
- 👉  [Free samples here](https://nudelx.github.io/presentations/#/) 
+<p></p>
+
+ * 🤓 &nbsp; [Talks Example](https://nudelx.github.io/presentations/#/)
+ * 👾 &nbsp; [My lovely project for my son - Space Invaders ](https://github.com/nudelx/ReactSpaceInvaders)
+ * 👾 &nbsp; [My lovely project for my son - Snake ](https://github.com/nudelx/ReactRetroGameEmojiSnake)
+ * 🦠 &nbsp; [Covid-19 Dashboard](https://github.com/nudelx/covid-live)
+ * 💢 &nbsp; [NPM Modules](https://www.npmjs.com/~nudelx)
+ * ⚛️ &nbsp; [React Awesome Menus](https://github.com/nudelx/ReactAwesomeMenus)
+
+
 
 
 
