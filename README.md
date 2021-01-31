@@ -3,8 +3,7 @@
 
 
 <table border="0">
- 
-  <tr>
+  <tr border="0">
   <td width="50%"> 
   My name is Alex Nudelman, and I'm codoholic 👨🏻‍💻
 
