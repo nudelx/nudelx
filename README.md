@@ -4,7 +4,7 @@
 [![Nudelx's GitHub stats](https://github-readme-stats.vercel.app/api?username=nudelx&count_private=true&show_icons=true&include_all_commits=true&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nudelx&hide=html&layout=compact&langs_count=7)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nudelx&hide=html&langs_count=7)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **nudelx/nudelx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
