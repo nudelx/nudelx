@@ -10,6 +10,9 @@ My name is Alex Nudelman, and I'm codoholic 👨🏻‍💻
   I'm a huge fan of the natural JavaScript language and all its manifestations.
   At my free time, I work on the various node and react projects, and I give talks and lectures about it.
 
+<a href="https://www.linkedin.com/in/alexnudelm/"><img src="https://img.shields.io/badge/Linked-In-blue"></a>
+<a href="https://www.linkedin.com/in/alexnudelm/"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/_nudelx_?style=social"></a>
+
 <table border="0 solid white" border-collapse="collapse" border-spacing="0">
   <tr border="0">
   <td  border="0" width="50%"> 
