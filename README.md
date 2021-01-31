@@ -2,7 +2,7 @@
 
 
 
-<table border="0" border-collapse=0>
+<table border="0" border-collapse="0" border-spacing="0">
   <tr border="0">
   <td  border="0" width="50%"> 
   My name is Alex Nudelman, and I'm codoholic 👨🏻‍💻
