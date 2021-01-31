@@ -29,7 +29,7 @@ My name is Alex Nudelman, and I'm codoholic 👨🏻‍💻
 </td>
   
 <td border="0">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nudelx&hide=html&langs_count=10&layout=compact&hide_border=1">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nudelx&hide=html,matlab&langs_count=10&layout=compact&hide_border=1">
     </td>
  </tr>
 </table>
