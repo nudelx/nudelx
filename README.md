@@ -1,5 +1,5 @@
 
-
+<center> <img src="https://github.com/nudelx/nudelx/raw/main/img/bg.gif"></center>
 
 
 <table border="0 solid white" border-collapse="collapse" border-spacing="0">
