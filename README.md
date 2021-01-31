@@ -13,7 +13,7 @@ My name is Alex Nudelman, and I'm codoholic 👨🏻‍💻
 <a href="https://www.linkedin.com/in/alexnudelm/"><img src="https://img.shields.io/badge/Linked-In-blue"></a>
 <a href="https://www.linkedin.com/in/alexnudelm/"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/_nudelx_?style=social"></a>
 
-<table border="0 solid white" border-collapse="collapse" border-spacing="0">
+<table width="100%" border="0 solid white" border-collapse="collapse" border-spacing="0">
   <tr border="0">
   <td  border="0" width="50%"> 
   <h3> Some of my pinned repos</h3>
