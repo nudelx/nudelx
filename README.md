@@ -5,6 +5,8 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nudelx&hide=html&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Nudelx's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nudelx)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **nudelx/nudelx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
