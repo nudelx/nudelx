@@ -4,24 +4,18 @@
 
 <table border="0">
  
- <tr>
+  <tr>
     <td> My name is Alex Nudelman, and I'm codoholic 👨🏻‍💻
 
-I'm currently work for [SolarWinds](https://www.solarwinds.com) as a Principal Architect ITSM and FullStack Developer.
-I'm a huge fan of the natural JavaScript language and all its manifestations.
-At my free time, I work on the various node and react projects, and I give talks and lectures about it.</td>
+        I'm currently work for [SolarWinds](https://www.solarwinds.com) as a Principal Architect ITSM and FullStack Developer.
+        I'm a huge fan of the natural JavaScript language and all its manifestations.
+        At my free time, I work on the various node and react projects, and I give talks and lectures about it.
+    </td>
 <td>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nudelx&hide=html&langs_count=10&layout=compact">
     </td>
  </tr>
 </table>
-<div style="display:flex; justify-content:flex-start">
-  <div>
-    
-  </div>
-  <div></div>
-</div>
-
 
 
 ### Some of my pinned repos
