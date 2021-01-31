@@ -1,17 +1,30 @@
 
 <center> <img width="100%" src="https://github.com/nudelx/nudelx/raw/main/img/bg.gif"></center>
 
+<br>
 
-<table border="0 solid white" border-collapse="collapse" border-spacing="0">
-  <tr border="0">
-  <td  border="0" width="50%"> 
-  <h3> <font color="#6ba4f2">Hi there</font> 👋 🙂</h3>
-  My name is Alex Nudelman, and I'm codoholic 👨🏻‍💻
+ <h3> <font color="#6ba4f2">Hi there</font> 👋 🙂</h3>
+My name is Alex Nudelman, and I'm codoholic 👨🏻‍💻
 
   I'm currently work for [SolarWinds](https://www.solarwinds.com) as a Principal Architect ITSM and FullStack Developer.
   I'm a huge fan of the natural JavaScript language and all its manifestations.
   At my free time, I work on the various node and react projects, and I give talks and lectures about it.
+
+<table border="0 solid white" border-collapse="collapse" border-spacing="0">
+  <tr border="0">
+  <td  border="0" width="50%"> 
+  <h3> Some of my pinned repos</h3>
+<ul>
+ <li> 🤓 &nbsp; [Talks Example](https://nudelx.github.io/presentations/#/)</li>
+ <li> 👾 &nbsp; [My lovely project for my son - Space Invaders ](https://github.com/nudelx/ReactSpaceInvaders)</li>
+ <li> 👾 &nbsp; [My lovely project for my son - Snake ](https://github.com/nudelx/ReactRetroGameEmojiSnake)</li>
+ <li> 🦠 &nbsp; [Covid-19 Dashboard](https://github.com/nudelx/covid-live)</li>
+ <li> 💢 &nbsp; [NPM Modules](https://www.npmjs.com/~nudelx)</li>
+ <li> ⚛️ &nbsp; [React Awesome Menus](https://github.com/nudelx/ReactAwesomeMenus)</li>
+ </ul>
+ 
 </td>
+  
 <td border="0">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nudelx&hide=html&langs_count=10&layout=compact&hide_border=1">
     </td>
@@ -19,14 +32,7 @@
 </table>
 
 
-### Some of my pinned repos
 
- * 🤓 &nbsp; [Talks Example](https://nudelx.github.io/presentations/#/)
- * 👾 &nbsp; [My lovely project for my son - Space Invaders ](https://github.com/nudelx/ReactSpaceInvaders)
- * 👾 &nbsp; [My lovely project for my son - Snake ](https://github.com/nudelx/ReactRetroGameEmojiSnake)
- * 🦠 &nbsp; [Covid-19 Dashboard](https://github.com/nudelx/covid-live)
- * 💢 &nbsp; [NPM Modules](https://www.npmjs.com/~nudelx)
- * ⚛️ &nbsp; [React Awesome Menus](https://github.com/nudelx/ReactAwesomeMenus)
 
 
 ### Github Stats
