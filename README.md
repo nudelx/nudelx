@@ -24,7 +24,7 @@ My name is Alex Nudelman, and I'm codoholic 👨🏻‍💻
  <li> 🦠 &nbsp; <a href="https://github.com/nudelx/covid-live">Covid-19 Dashboard </li>
  <li> 💢 &nbsp; <a href="https://www.npmjs.com/~nudelx">NPM Modules </li>
  <li> ⚛️ &nbsp; <a href="https://github.com/nudelx/ReactAwesomeMenus">React Awesome Menus </li>
- </ul>
+</ul>
  
 </td>
   
