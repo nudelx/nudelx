@@ -15,12 +15,12 @@ My name is Alex Nudelman, and I'm codoholic 👨🏻‍💻
   <td  border="0" width="50%"> 
   <h3> Some of my pinned repos</h3>
 <ul>
- <li> 🤓 &nbsp; [Talks Example](https://nudelx.github.io/presentations/#/)</li>
- <li> 👾 &nbsp; [My lovely project for my son - Space Invaders ](https://github.com/nudelx/ReactSpaceInvaders)</li>
- <li> 👾 &nbsp; [My lovely project for my son - Snake ](https://github.com/nudelx/ReactRetroGameEmojiSnake)</li>
- <li> 🦠 &nbsp; [Covid-19 Dashboard](https://github.com/nudelx/covid-live)</li>
- <li> 💢 &nbsp; [NPM Modules](https://www.npmjs.com/~nudelx)</li>
- <li> ⚛️ &nbsp; [React Awesome Menus](https://github.com/nudelx/ReactAwesomeMenus)</li>
+ <li> 🤓 &nbsp; <a href="https://nudelx.github.io/presentations/#/">Talks Example </li>
+ <li> 👾 &nbsp; <a href="https://github.com/nudelx/ReactSpaceInvaders">My lovely project for my son - Space Invaders  </li>
+ <li> 👾 &nbsp; <a href="https://github.com/nudelx/ReactRetroGameEmojiSnake">My lovely project for my son - Snake  </li>
+ <li> 🦠 &nbsp; <a href="https://github.com/nudelx/covid-live">Covid-19 Dashboard </li>
+ <li> 💢 &nbsp; <a href="https://www.npmjs.com/~nudelx">NPM Modules </li>
+ <li> ⚛️ &nbsp; <a href="https://github.com/nudelx/ReactAwesomeMenus">React Awesome Menus </li>
  </ul>
  
 </td>
