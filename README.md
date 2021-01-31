@@ -24,12 +24,12 @@ In my free time, I working on the various node and react projects and I give tal
 
 ### Github Stats
 
-[![Nudelx's GitHub stats](https://github-readme-stats.vercel.app/api?username=nudelx&count_private=true&show_icons=true&include_all_commits=true&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nudelx)](https://github.com/anuraghazra/github-readme-stats)|
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nudelx&hide=html&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats) [![Nudelx's GitHub stats](https://github-readme-stats.vercel.app/api?username=nudelx&count_private=true&show_icons=true&include_all_commits=true&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nudelx)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nudelx&hide=html&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
  
 
