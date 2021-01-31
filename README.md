@@ -16,8 +16,8 @@ My name is Alex Nudelman, and I'm codoholic 👨🏻‍💻
   <h3> Some of my pinned repos</h3>
 <ul>
  <li> 🤓 &nbsp; <a href="https://nudelx.github.io/presentations/#/">Talks Example </li>
- <li> 👾 &nbsp; <a href="https://github.com/nudelx/ReactSpaceInvaders">My lovely project for my son - Space Invaders  </li>
- <li> 👾 &nbsp; <a href="https://github.com/nudelx/ReactRetroGameEmojiSnake">My lovely project for my son - Snake  </li>
+ <li> 👾 &nbsp; <a href="https://github.com/nudelx/ReactSpaceInvaders">React Web Game - Space Invaders  </li>
+ <li> 👾 &nbsp; <a href="https://github.com/nudelx/ReactRetroGameEmojiSnake">React Web Game - Snake  </li>
  <li> 🦠 &nbsp; <a href="https://github.com/nudelx/covid-live">Covid-19 Dashboard </li>
  <li> 💢 &nbsp; <a href="https://www.npmjs.com/~nudelx">NPM Modules </li>
  <li> ⚛️ &nbsp; <a href="https://github.com/nudelx/ReactAwesomeMenus">React Awesome Menus </li>
