@@ -1,10 +1,11 @@
-### Hi there 👋
+
 
 
 
 <table border="0 solid white" border-collapse="collapse" border-spacing="0">
   <tr border="0">
   <td  border="0" width="50%"> 
+  <h3><font color="#6ba4f2"> Hi there 👋 </font></h3>
   My name is Alex Nudelman, and I'm codoholic 👨🏻‍💻
 
   I'm currently work for [SolarWinds](https://www.solarwinds.com) as a Principal Architect ITSM and FullStack Developer.
