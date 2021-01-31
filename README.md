@@ -12,7 +12,7 @@
   At my free time, I work on the various node and react projects, and I give talks and lectures about it.
 </td>
 <td border="0">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nudelx&hide=html&langs_count=10&layout=compact">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nudelx&hide=html&langs_count=10&layout=compact&border=0">
     </td>
  </tr>
 </table>
