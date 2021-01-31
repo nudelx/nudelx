@@ -7,13 +7,16 @@ I'm a huge fan of the natural JavaScript language and all its manifestations.
 In my free time, I working on the various node and react projects and I give talks and lectures about it. 
 <p></p>
 
- * 🤓 &nbsp; [Talks Example](https://nudelx.github.io/presentations/#/)
- * 👾 &nbsp; [My lovely project for my son - Space Invaders ](https://github.com/nudelx/ReactSpaceInvaders)
- * 👾 &nbsp; [My lovely project for my son - Snake ](https://github.com/nudelx/ReactRetroGameEmojiSnake)
- * 🦠 &nbsp; [Covid-19 Dashboard](https://github.com/nudelx/covid-live)
- * 💢 &nbsp; [NPM Modules](https://www.npmjs.com/~nudelx)
- * ⚛️ &nbsp; [React Awesome Menus](https://github.com/nudelx/ReactAwesomeMenus)
-
+<div>
+<ul>
+ <li> 🤓 &nbsp; [Talks Example](https://nudelx.github.io/presentations/#/)</li>
+ <li> 👾 &nbsp; [My lovely project for my son - Space Invaders ](https://github.com/nudelx/ReactSpaceInvaders)</li>
+ <li> 👾 &nbsp; [My lovely project for my son - Snake ](https://github.com/nudelx/ReactRetroGameEmojiSnake)</li>
+ <li> 🦠 &nbsp; [Covid-19 Dashboard](https://github.com/nudelx/covid-live)</li>
+ <li> 💢 &nbsp; [NPM Modules](https://www.npmjs.com/~nudelx)</li>
+ <li> ⚛️ &nbsp; [React Awesome Menus](https://github.com/nudelx/ReactAwesomeMenus)</li>
+ </ul>
+</div>
 
 
 
