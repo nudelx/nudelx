@@ -8,7 +8,8 @@ In my free time, I working on the various node and react projects and I give tal
 <p></p>
 
 <div>
-<ul>
+<h3>Some of my pinned repos</h3>
+<ul style="list-style: none;margin:20 0; padding:0">
  <li> 🤓 &nbsp; [Talks Example](https://nudelx.github.io/presentations/#/)</li>
  <li> 👾 &nbsp; [My lovely project for my son - Space Invaders ](https://github.com/nudelx/ReactSpaceInvaders)</li>
  <li> 👾 &nbsp; [My lovely project for my son - Snake ](https://github.com/nudelx/ReactRetroGameEmojiSnake)</li>
