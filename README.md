@@ -3,7 +3,9 @@
 <div>My name is Alex Nudelman, and I'm codoholic 👨🏻‍💻</div>
 
 I'm currently work for [SolarWinds](https://www.solarwinds.com) as a Principal Architect ITSM and FullStack Developer.
-I'm a huge fan of the Natural JavaScript language and all its manifestations
+I'm a huge fan of the natural JavaScript language and all its manifestations.
+In my free time, I working on the various node and react projects and I give talks and lectures about it. 
+ 👉  [Free samples here](https://nudelx.github.io/presentations/#/) 
 
 
 
