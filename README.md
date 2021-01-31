@@ -4,14 +4,14 @@
 
 <table border="0">
   <tr border="0">
-  <td width="50%"> 
+  <td  border="0" width="50%"> 
   My name is Alex Nudelman, and I'm codoholic 👨🏻‍💻
 
   I'm currently work for [SolarWinds](https://www.solarwinds.com) as a Principal Architect ITSM and FullStack Developer.
   I'm a huge fan of the natural JavaScript language and all its manifestations.
   At my free time, I work on the various node and react projects, and I give talks and lectures about it.
 </td>
-<td>
+<td border="0">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nudelx&hide=html&langs_count=10&layout=compact">
     </td>
  </tr>
