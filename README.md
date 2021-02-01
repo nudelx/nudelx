@@ -14,8 +14,8 @@ My name is Alex Nudelman, and I'm codoholic 👨🏻‍💻
 <a href="https://twitter.com/_nudelx_"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/_nudelx_?style=social"></a>
 
 <table width="100%" border="0 solid white" border-collapse="collapse" border-spacing="0">
-  <tr border="0">
-  <td  border="0" width="50%"> 
+  <tr>
+  <td width="50%"> 
   <h3> Some of my pinned repos</h3>
 <ul>
  <li> 🤓 &nbsp; <a href="https://nudelx.github.io/presentations/#/">Talks Example </li>
