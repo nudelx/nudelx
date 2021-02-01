@@ -43,13 +43,6 @@ My name is Alex Nudelman, and I'm codoholic 👨🏻‍💻
 
 
 
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@nudelx/b4f1a638-ca11-424b-808d-8c5bb64f68e2.png" /></a>
- 
-
-
-
-
-
 <!--
 **nudelx/nudelx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
