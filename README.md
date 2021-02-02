@@ -6,9 +6,11 @@
  <h3> <font color="#6ba4f2">Hi there</font> 👋 🙂</h3>
 My name is Alex Nudelman, and I'm codoholic 👨🏻‍💻
 
-  I'm currently work for [SolarWinds](https://www.solarwinds.com) as a Principal Architect ITSM and FullStack Developer.
-  I'm a huge fan of the natural JavaScript language and all its manifestations.
-  At my free time, I work on the various node and react projects, and I give talks and lectures about it.
+
+I'm currently working for [SolarWinds](https://www.solarwinds.com) as a Principal Architect ITSM and FullStack Developer.
+I'm a huge fan of the natural JavaScript language and all its manifestations. 
+In my free time, I work on a various node and react projects, and I give talks and lectures about it.
+
 
 <a href="https://www.linkedin.com/in/alexnudelm/"><img src="https://img.shields.io/badge/Linked-In-blue"></a>
 <a href="https://twitter.com/_nudelx_"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/_nudelx_?style=social"></a>
