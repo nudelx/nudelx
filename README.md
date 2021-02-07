@@ -62,6 +62,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div>
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-EH8LLBEKZN"></script>
 <script>
@@ -71,3 +73,4 @@ Here are some ideas to get you started:
 
   gtag('config', 'G-EH8LLBEKZN');
 </script>
+</div>
