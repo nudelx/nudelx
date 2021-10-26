@@ -15,12 +15,6 @@ In my free time, I work on a various node and react projects, and I give talks a
 ### Connect with me:
 
 
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][instagram]
-
-
 <a href="https://www.linkedin.com/in/alexnudelm/"><img src="https://img.shields.io/badge/Linked-In-blue"></a>
 <a href="https://twitter.com/_nudelx_"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/_nudelx_?style=social"></a>
 
@@ -71,5 +65,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
 
 
