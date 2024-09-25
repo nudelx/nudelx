@@ -34,7 +34,7 @@ In my free time, I work on a various node and react projects, and I give talks a
 </td>
   
 <td border="0">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nudelx&hide=html,matlab&langs_count=10&layout=compact&hide_border=1">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nudelx&hide=html,matlab&langs_count=10&layout=compact&hide_border=1&theme=dark">
     </td>
  </tr>
 </table>
