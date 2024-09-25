@@ -44,7 +44,7 @@ In my free time, I work on a various node and react projects, and I give talks a
 
 
 #### 👨🏻‍💻 &nbsp; GitHub Stats
-[![Nudelx's GitHub stats](https://github-readme-stats.vercel.app/api?username=nudelx&count_private=true&show_icons=true&include_all_commits=true&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Nudelx's GitHub stats](https://github-readme-stats.vercel.app/api?username=nudelx&count_private=true&show_icons=true&include_all_commits=true&show_owner=true&show=prs_merged_percentage&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
