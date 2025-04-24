@@ -7,9 +7,11 @@
 My name is Alex Nudelman, and I'm codoholic 👨🏻‍💻
 
 
-I'm currently work for [Viably](https://www.runviably.com/) as a Principal Architect and FullStack Developer.
-I'm a huge fan of the natural JavaScript language and all its manifestations (NodeJS, ReactJS, etc). 
-In my free time, I work on a various node and react projects, and I give talks and lectures about it.
+I’m currently a Principal Architect and Full-Stack Developer at [Clarity](https://www.clarityo.com/), where I help design and build scalable, modern applications. I'm passionate about the JavaScript ecosystem in all its forms—whether it's Node.js, React, or the ever-evolving web platform.
+
+Outside of work, I spend my time building side projects with Node and React, exploring new tech stacks, and sharing knowledge through talks and lectures on JavaScript and full-stack development.
+
+
 
 
 ### Connect with me:
