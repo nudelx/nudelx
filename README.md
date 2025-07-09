@@ -1,5 +1,5 @@
 
-<center> <img width="100%" height="80%" src="https://github.com/nudelx/nudelx/raw/main/img/bg_2.png"></center>
+<center> <img width="100%" src="https://github.com/nudelx/nudelx/raw/main/img/bg_2.png"></center>
 
 <br>
 
